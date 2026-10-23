@@ -29,6 +29,7 @@
 **Society for Neuroscience（SfN）Neuroscience 2026 に採択**されており、2026年11月14〜18日に Washington D.C. で発表します。
 
 など
+
 ---
 
 ## 技術スタック
@@ -36,7 +37,8 @@
 - **言語**: Swift, Python, MATLAB, R
 - **実験管理**: Weights & Biases
 - **開発・自動化**: Claude Code, Codex, Gemini、Notion、GAS、Zapier、Make、API 連携
-- - **その他**: FinalCutProX, Adobe Premiere, Adobe Photoshop, Figma
+- **その他**: FinalCutProX, Adobe Premiere, Adobe Photoshop, Figma
+
 ---
 
 ## 業績・発表
